@@ -9,9 +9,9 @@ ToDoNest is a simple and intuitive To-Do list application built with Flutter. It
 - **Delete Tasks:** Remove tasks from your list when they are no longer needed.
 - **Local Database:** Task data is stored locally on your Android device.
 
-## Screenshots
+## APP Mockup
 
-*Include some screenshots of your app here.*
+![Home Screen](/appScreen.png)
 
 ## Installation
 
