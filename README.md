@@ -1,16 +1,28 @@
-# todo_app
+# ToDoNest
 
-A new Flutter project.
+ToDoNest is a simple and intuitive To-Do list application built with Flutter. It allows users to manage their tasks with features to add, check/uncheck, and delete tasks. The app uses a local database on Android devices to store task data.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Add Tasks:** Easily add new tasks to your to-do list.
+- **Check/Uncheck Tasks:** Mark tasks as completed or pending.
+- **Delete Tasks:** Remove tasks from your list when they are no longer needed.
+- **Local Database:** Task data is stored locally on your Android device.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+*Include some screenshots of your app here.*
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+### Prerequisites
+
+- Flutter SDK
+- Dart SDK
+- Android Studio or Visual Studio Code
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/your-username/ToDoNest.git
+cd ToDoNest
